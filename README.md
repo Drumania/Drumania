@@ -1,4 +1,4 @@
-<img src="[banner.png](https://media.licdn.com/dms/image/v2/C4D16AQEJfWaNiwVAFQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1595018006576?e=1753920000&v=beta&t=FlYXXZn815snq6Am7Kfvmz1f9xwLmjIQtX7twxzfkQc)" alt="Martín Brumana banner" style="width:100%; max-height:300px; object-fit:cover;" />
+<img src="bannermartin.jpeg" alt="Martín Brumana banner" style="width:100%; max-height:300px; object-fit:cover;" />
 
 
 # Martín Brumana
