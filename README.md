@@ -1,16 +1,20 @@
-## Hi there 👋
+# Martín Brumana
 
-<!--
-**Drumania/Drumania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador front-end, diseñador UX & Product Designer.
+Especializado en React, TypeScript y diseño limpio.  
 
-Here are some ideas to get you started:
+"Me gusta trabajar en la intersección entre código y diseño, creando interfaces claras, funcionales y sostenibles."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tecnologías
+
+- React · TypeScript · Vite · Firebase
+- HTML · CSS · Bootstrap · jQuery
+- UX/UI Design · Prototipado · Diseño Suizo
+- WordPress · Git · Firebase Auth/Firestore · JWT
+
+
+## LinkedIn
+
+[linkedin.com/in/martinbrumana](https://linkedin.com/in/martinbrumana)  
