@@ -13,7 +13,7 @@ Especializado en React, TypeScript y diseño limpio.
 ## Tecnologías
 
 - React · TypeScript · Vite · Firebase
-- HTML · CSS · Bootstrap · jQuery
+- HTML · CSS · Bootstrap · jQuery ( thank you for so much )
 - UX/UI Design · Prototipado · Diseño Suizo
 - WordPress · Git · Firebase Auth/Firestore · JWT
 
